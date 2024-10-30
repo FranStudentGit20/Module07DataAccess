@@ -12,4 +12,7 @@ public partial class ViewPersonal : ContentPage
 		var personalViewModel = new PersonalViewModel();
 		BindingContext = personalViewModel;
 	}
+
+	
+
 }
